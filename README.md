@@ -1,0 +1,1 @@
+# OtusCPP1_passing2_noGTest
